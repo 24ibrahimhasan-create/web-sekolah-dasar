@@ -1,0 +1,6 @@
+{
+  "name": "UPTD SD Inpres 2 Bira - Website Profil Sekolah",
+  "description": "Website profil sekolah dasar modern, ramah anak, dan informatif untuk UPTD SD Inpres 2 Bira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
